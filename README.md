@@ -4,7 +4,7 @@
   <p>متخصص في بناء مواقع ومتاجر إلكترونية عصرية، سريعة، ومتجاوبة بالكامل مع الجوال والكمبيوتر بأحدث تقنيات الويب والحركة التفاعلية.</p>
 
   <p>
-    <a href="https://ammar2it2engineer77.github.io/Gamer_Zone_AR/" target="_blank">
+    <a href="https://ammar2it2enginer77.github.io/Gamer_Zone_AR/" target="_blank">
       <img src="https://img.shields.io/badge/Live_Demo-معاينة_أحدث_مشاريعي-00B8FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
     </a>
     <a href="https://wa.me/967772457941" target="_blank">
@@ -39,11 +39,11 @@
 
 | المشروع | الوصف والتقنيات المستخدمة | المعاينة الحية |
 | :--- | :--- | :---: |
-| **🎮 Gamer Zone AR** | متجر إلكتروني متكامل لمعدات الألعاب بتصميم داكن عصري، حركات تمرير تفاعلية (GSAP + Lenis)، سلة مشتريات، ولوحة إدارة منتجات متجاوبة مع الجوال. | [**تصفح المتجر مباشرة 🔗**](https://ammar2it2engineer77.github.io/Gamer_Zone_AR/) |
+| **🎮 Gamer Zone AR** | متجر إلكتروني متكامل لمعدات الألعاب بتصميم داكن عصري، حركات تمرير تفاعلية (GSAP + Lenis)، سلة مشتريات، ولوحة إدارة منتجات متجاوبة مع الجوال. | [**تصفح المتجر مباشرة 🔗**](https://ammar2it2enginer77.github.io/Gamer_Zone_AR/) |
 
 ---
 
 ### 📩 هل لديك فكرة موقع أو متجر إلكتروني؟
 يسعدني تحويل فكرتك إلى واقع رقمي احترافي. تواصل معي مباشرة لمناقشة تفاصيل مشروعك:
 * 💬 **واتساب مباشر:** [+967772457941 — اضغط هنا للمراسلة](https://wa.me/967772457941)
-* 💼 **GitHub:** [@Ammar2IT2Engineer77](https://github.com/Ammar2IT2Engineer77)
+* 💼 **GitHub:** [@Ammar2IT2Enginer77](https://github.com/Ammar2IT2Enginer77)
